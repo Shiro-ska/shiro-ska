@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Awesome web apps & open-source tools**
 - 🌱 I’m currently learning **Next.js, Rust & Cloud Architecture**
 - 💬 Ask me about **React, TypeScript, Node.js, and Web Development**
-- 📫 How to reach me: **shiro@example.com**
+- 📫 How to reach me: **mpramoedya@gmail.com**
 - ⚡ Fun fact: **I love building clean interfaces & exploring system architectures**
 
 ---
