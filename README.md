@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiro!</h1>
-<h3 align="center">Full-Stack Developer & Tech Enthusiast based in Surakarta, Indonesia 🇮🇩</h3>
+<h3 align="center">Web Developer & Tech Enthusiast prefer IoT based in Surakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Crafting+clean+code;Interactive+web+apps;Modern+digital+experiences" alt="Typing SVG" />
